@@ -35,7 +35,7 @@ Assignment 2
 - **CSS** – Styling and layout management
 
 
-## 📄 Additional Details
+## Additional Details
 This repository contains only a summary of my **Web Development Project**. The full report was submitted as part of a university assignment and cannot be shared publicly due to academic integrity and copyright policies.
 
 
